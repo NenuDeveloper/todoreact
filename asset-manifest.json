@@ -1,13 +1,13 @@
 {
   "main.css": "/todoreact/static/css/main.c034e82d.chunk.css",
-  "main.js": "/todoreact/static/js/main.f0aec635.chunk.js",
-  "main.js.map": "/todoreact/static/js/main.f0aec635.chunk.js.map",
+  "main.js": "/todoreact/static/js/main.ab44f981.chunk.js",
+  "main.js.map": "/todoreact/static/js/main.ab44f981.chunk.js.map",
   "static/js/1.ab62c889.chunk.js": "/todoreact/static/js/1.ab62c889.chunk.js",
   "static/js/1.ab62c889.chunk.js.map": "/todoreact/static/js/1.ab62c889.chunk.js.map",
   "runtime~main.js": "/todoreact/static/js/runtime~main.c72e2821.js",
   "runtime~main.js.map": "/todoreact/static/js/runtime~main.c72e2821.js.map",
   "static/css/main.c034e82d.chunk.css.map": "/todoreact/static/css/main.c034e82d.chunk.css.map",
   "index.html": "/todoreact/index.html",
-  "precache-manifest.a86667b10adf361ee49c842127b94afe.js": "/todoreact/precache-manifest.a86667b10adf361ee49c842127b94afe.js",
+  "precache-manifest.73ffcaed8a8c6ffc3a9ea3ada431a73e.js": "/todoreact/precache-manifest.73ffcaed8a8c6ffc3a9ea3ada431a73e.js",
   "service-worker.js": "/todoreact/service-worker.js"
 }
